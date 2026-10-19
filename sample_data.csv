@@ -1,0 +1,4 @@
+make,model,year,mileage_km,fuel,transmission,engine_cc,price_pkr
+Toyota,Corolla,2018,75000,Petrol,Automatic,1800,3500000
+Honda,Civic,2019,60000,Petrol,Automatic,1800,4500000
+Suzuki,Alto,2021,30000,Petrol,Manual,660,2200000
